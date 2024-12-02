@@ -1,6 +1,6 @@
 # Audiobook Customer Prediction
 
-This project involves predicting whether a customer will make another purchase from an Audiobook company based on their historical data. The goal is to predict the likelihood of a customer returning within the next 6 months. By doing so, we can focus advertising efforts on customers most likely to convert, reducing costs and increasing ROI.
+This project involves predicting whether a customer will make another purchase from an Audiobook company based on their historical data. The goal is to predict the likelihood of a customer returning within the next 6 months. By doing so, we can focus advertising efforts on customers most likely to convert, reducing costs.
 
 
 
