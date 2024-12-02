@@ -2,16 +2,7 @@
 
 This project involves predicting whether a customer will make another purchase from an Audiobook company based on their historical data. The goal is to predict the likelihood of a customer returning within the next 6 months. By doing so, we can focus advertising efforts on customers most likely to convert, reducing costs and increasing ROI.
 
-## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Architecture](#model-architecture)
-- [Training the Model](#training-the-model)
-- [Results](#results)
-- [Usage](#usage)
-- [Installation](#installation)
-- [License](#license)
 
 ## Project Overview
 
@@ -62,18 +53,6 @@ The model is trained on the training dataset and evaluated on the validation dat
 
 Once the model is trained, it is evaluated using the test dataset to determine its performance. The accuracy of the model will be reported based on its ability to predict whether a customer will make another purchase.
 
-## Usage
 
-To use the trained model, you can follow these steps:
-1. Load the preprocessed data (inputs and targets).
-2. Use the model to predict the likelihood of customers returning in the next 6 months.
-3. Focus marketing efforts on customers with high probabilities of returning.
-
-## Installation
-
-To run the project, make sure you have Python 3.6+ installed, along with the required libraries. You can install the necessary dependencies using `pip`:
-
-```bash
-pip install -r requirements.txt
 
 
